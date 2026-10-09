@@ -47,7 +47,4 @@ For each facility:
 ## Credits
 
 - Facility data: [NASA Open Data Portal](https://data.nasa.gov/), NASA Facilities dataset
-- Weather data: [WeatherAPI.com](https://www.weatherapi.com/)<img width="525" height="313" alt="Screenshot 2026-10-09 at 8 21 03 AM" src="https://github.com/user-attachments/assets/36eb6b8a-7187-496c-ad89-e428c83973a9" />
-<img width="525" height="313" alt="Screenshot 2026-10-09 at 8 21 03 AM" src="https://github.com/user-attachments/assets/0870928f-9394-4882-8271-641dca61ce54" />
-<img width="525" height="313" alt="Screenshot 2026-10-09 at 8 21 03 AM" src="https://github.com/user-attachments/assets/daf10a8d-894c-4630-b1fc-639a1d561de0" />
-
+- Weather data: [WeatherAPI.com](https://www.weatherapi.com/)<img width="525" height="313" 
