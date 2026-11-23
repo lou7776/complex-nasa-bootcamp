@@ -2,6 +2,8 @@
 
 A small web page that lists NASA facilities and shows the current temperature at each one. Click the button, and the page loads the facility list, looks up the weather for every facility's ZIP code, and shows the results in a scrolling panel.
 
+**Live Site**: https://lou7776.github.io/complex-nasa-bootcamp/
+
 <img width="525" height="313" alt="Screenshot 2026-10-09 at 8 21 03 AM" src="https://github.com/user-attachments/assets/c9138fab-35d9-4a3b-bd9d-ba9abc83be74" />
 
 ## What it shows
